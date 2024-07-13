@@ -167,6 +167,10 @@ a {
 .banner {
   background: #000;
 }
+.pic2 {
+  padding-top: 72px;
+  padding-bottom: 32px;
+}
 
 .content {
   color: white;
